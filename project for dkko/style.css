@@ -1,0 +1,103 @@
+.topbar{
+    color: white;
+   display: flex;
+   justify-content: space-between;
+   outline: 1px;
+   background-color: rgb(51, 51, 51);
+   padding: 10px
+
+   
+}
+
+.container{
+    float: right;
+
+}
+
+
+.buttonmid{
+    background-color: #0080ff;
+    color: white;
+    padding: 5px;
+    opacity: 1;
+    transition: 0.3s
+}
+
+.buttonmid:hover {opacity: 0.6;
+
+}
+
+.message{
+    font-size: 70px
+}
+
+.bb1{
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px 50px;
+    opacity: 1;
+    transition: 0.3s
+}
+.bb1:hover{opacity: 0.6;}
+.bb2{
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px 50px;
+    opacity: 1;
+    transition: 0.3s
+}
+.bb2:hover{opacity: 0.6;}
+.bb3{
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px 50px;
+    opacity: 1;
+    transition: 0.3s 
+}
+.bb3:hover{opacity: 0.6;}
+a:link{
+    color:black;
+   
+}
+
+.tb1{
+    border-radius: 5px;
+    opacity: 1;
+    transition: 0.3s
+}
+.tb1:hover{opacity: 0.6;
+}
+
+.tb2{
+    border-radius: 5px;
+    opacity: 1;
+    transition: 0.3s
+}
+.tb2:hover{opacity: 0.6;}
+.bottom{
+    display: flex;
+    margin: 10px 50px 10px 50px
+  
+
+}
+
+.middlebar{
+   display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.bottombuttons{
+    display: flex;
+    justify-content: space-evenly
+}
+
+.t2{
+    background-color: rgb(241, 241, 241);
+    margin: 10px 50px 50px 50px;
+    padding: 10px;
+    border-radius: 5px
+}
+.foot{
+    margin: 10px 0px 0px 45px
+}
